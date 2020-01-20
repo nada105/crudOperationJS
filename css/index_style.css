@@ -1,0 +1,43 @@
+
+body
+{
+    font-family: 'segoe ui light';
+    background-color: rgb(251, 251, 251);
+    font-size: 16px;
+}
+.product
+{
+    position: relative;
+    
+}
+ h2
+{
+    font-weight: 900;
+}
+.sale
+{
+    background-color:tomato;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    right: 20px;
+    padding: 10px;
+    font-weight: 600;
+    
+}
+
+h3{
+    font-weight: bolder;
+}
+.price
+{
+    background-color:tomato;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    font-weight: 600;
+    
+}
